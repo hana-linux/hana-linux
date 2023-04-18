@@ -1,16 +1,50 @@
-### Hi there 👋
 
-<!--
-**hana-linux/hana-linux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://www.linkedin.com/in/lil-hana/">Hana</a></b>
+        </samp>
+</h3>
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
+        <!-- Organisation  -->
+        <samp>
+                「 I Code what I Design 」
+                <br>
+                「 I am a web developer from <b>Vie</b> 」
+                <br>
+                <br>
+        </samp>
+        <!-- Programming Languages -->
+        <!-- Code logo -->
+        <a href="" target="_blank"><img alt="Code"
+                        src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
+        </a>
+        <!-- HTML -->
+        <a href="" target="_blank"><img alt="HTML"
+                        src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+        </a>
+        <!-- CSS  -->
+        <a href="" target="_blank"><img alt="CSS"
+                        src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+        </a>
+        <!-- JavaScript -->
+        <a href="" target="_blank"><img alt="JavaScript"
+                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        </a>
+        <!-- C++ -->
+        <a href="" target="_blank"><img alt="C++"
+                        src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
+        </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Footer -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻!"
+    </p>
+</samp>
+

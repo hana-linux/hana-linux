@@ -9,8 +9,7 @@
 
 <p align="center">
         <!-- Organisation  -->
-        <samp>
-                「 I Code what I Design 」
+        <samp
                 <br>
                 「 I am a <b> Web developer </b> 」
                 <br>

@@ -12,7 +12,7 @@
         <samp>
                 「 I Code what I Design 」
                 <br>
-                「 I am a web developer from <b>Vie</b> 」
+                「 I am a <b> Web developer </b> 」
                 <br>
                 <br>
         </samp>

@@ -1,10 +1,4 @@
 
-<style>
-        .language_badges{
-                width: 60px;
-                height: 20px;
-        }
-</style>
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am

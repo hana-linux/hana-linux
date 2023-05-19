@@ -14,13 +14,9 @@
                 「 I am a <b> Web developer </b> 」
                 <br>
         </samp>
-
-<br>
-        
-
         <!-- Programming Languages -->
         <!-- MongoDB -->
-                <a href="" target="_blank"><img class="language_badges"alt="MongoDB"
+                <a href="" target="_blank"><img alt="MongoDB"
                         src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" >
         <!-- HTML -->
                 <a href="" target="_blank"><img class="language_badges"alt="HTML"

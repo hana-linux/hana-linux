@@ -7,8 +7,13 @@
       A student at Ha Noi University of Mining and Geology
        <br>
       <img src="https://readme-typing-svg.herokuapp.com?font=+JetBrains+Mono+Nerd+Font&size=14&pause=1000&color=1D3885&center=true&width=435&lines=Hapiness+comes+from+the+simple+thing" alt="Typing SVG" />
-       <br>
-           <b>~ Tran Hong Quan ~</b>        
+      <p align="center">
+         <b>~ Tran Hong Quan ~</b>
+         <br>
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻!"
+    </p>    
    </samp>       
 </p>
 <!-- contribution snake  -->
@@ -33,19 +38,14 @@
 <img alt="yooo" src="https://i.pinimg.com/originals/c6/0f/70/c60f702c06903ab3ac739f86a036d7b6.gif" />
 </p>
 
-## :atom: Languages & Tools
+### :atom: Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,figma,laravel,php,spring,git,linux,neovim&theme=dark)](https://skillicons.dev)
 
-<!-- flex  -->
-## Some things from me maybe you like :
--  [Hyprland with catppuccin](https://github.com/theshy-arch/catpuccin-hyprland-dotfiles).
--  [Hyprland with gruvbox](https://github.com/theshy-arch/linux-rice-gruvbox-project).
-<!-- Footer -->
+<!-- linux rice  -->
+### 🌆 Rice :
 <samp>
-    <p align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        "Happy Coding👨‍💻!"
-    </p>
+   :octocat: <a href="https://github.com/theshy-arch/catpuccin-hyprland-dotfiles">Hyprland with Catppuccin</a></p>
+   🌳 <a href="https://github.com/theshy-arch/linux-rice-gruvbox-project">Hyprland with Gruvbox</a>
 </samp>
 
 

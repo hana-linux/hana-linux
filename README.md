@@ -1,50 +1,39 @@
 
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.linkedin.com/in/theshy-arch/">theshy</a></b>
-        </samp>
-
-
-</h3>
 <p align="center">
-        <!-- Organisation  -->
-        <samp
-                <br>
-                「 I am a <b> Web developer </b> 」
-                <br>
-        </samp>
-<br>
-        <!-- Programming Languages -->
-        <!-- MongoDB -->
-                <a href="" target="_blank"><img alt="MongoDB"
-                        src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" >
-        <!-- HTML -->
-                <a href="" target="_blank"><img class="language_badges"alt="HTML"
-                        src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-                </a>
-        <!-- CSS  -->
-                <a href="" target="_blank"><img class="language_badges"alt="CSS"
-                        src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-                </a>
-        <!-- JavaScript -->
-                <a href="" target="_blank"><img class="language_badges"alt="JavaScript"
-                        src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-                </a>
-        <!-- ArchLinux -->
-                 <a href="" target="_blank"><img class="language_badges"alt="ArchLinux"
-                        src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
-                 </a>
-        <!-- TypeScript -->
-                <a href="" target="_blank"><img class="language_badges"alt="TypeScript"
-                        src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-                </a>
-        <!--NodeJS -->
-                <a href="" target="blank"><img class="language_badges"alt="NodeJS"
-                        src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-                </a>
+   <samp>
+      &gt; Hey There!, I am <b><a target="_blank" href="https://www.linkedin.com/in/theshy-arch/">theshy</a></b>
+      <br>
+      A student at Ha Noi University of Mining and Geology
+       <br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=+JetBrains+Mono+Nerd+Font&size=14&pause=1000&color=1D3885&center=true&width=435&lines=Hapiness+comes+from+the+simple+thing" alt="Typing SVG" />
+       <br>
+           <b>~ Tran Hong Quan ~</b>        
+   </samp>       
+</p>
+<!-- contribution snake  -->
+<p align="center">
+        <img alt="contribution snake" width="86%" src="https://raw.githubusercontent.com/theshy-arch/theshy-arch/output/github-contribution-grid-snake.svg" />
 </p>
 
+## :fire: Github Stats
+<table>
+   <tr>
+     <td width="50%"> 
+         <img alt="Github Starts" src="https://github-readme-stats.vercel.app/api?username=theshy-arch&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true"               
+     </td>
+     <td>
+        <p align="center"><img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&bg_color=00000000&hide_border=true"/></p>
+        <img src="https://streak-stats.demolab.com/?user=theshy-arch&theme=dark&background=00000000&hide_border=true"/>
+     </td>
+   </tr>
+</table>
+
+<p align="center">
+<img alt="yooo" src="https://i.pinimg.com/originals/c6/0f/70/c60f702c06903ab3ac739f86a036d7b6.gif" />
+</p>
+
+## :atom: Languages & Tools
 
 <!-- flex  -->
 ## Some things from me maybe you like :

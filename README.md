@@ -20,6 +20,7 @@
 <p align="center">
         <img alt="contribution snake" width="86%" src="https://raw.githubusercontent.com/theshy-arch/theshy-arch/output/github-contribution-grid-snake.svg" />
 </p>
+
 <!--Github Stats -->
 ## :fire: Github Stats
 <table>
@@ -38,6 +39,7 @@
 <p align="center">
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/95228594/246629236-f87a91df-8d59-48ee-968b-b6c101b4d15f.gif" />
 </p>
+
 <!--Technical skills  -->
 ### :atom: Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,figma,laravel,php,spring,git,linux,neovim&theme=dark)](https://skillicons.dev)

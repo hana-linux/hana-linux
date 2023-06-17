@@ -2,7 +2,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.linkedin.com/in/lil-hana/">Hana</a></b>
+                <b><a target="_blank" href="https://www.linkedin.com/in/theshy-arch/">theshy</a></b>
         </samp>
 
 
@@ -44,6 +44,12 @@
                         src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
                 </a>
 </p>
+
+
+<!-- flex  -->
+## Some things maybe you like :
+-  [Hyprland with catppuccin](https://github.com/theshy-arch/catpuccin-hyprland-dotfiles).
+-  [Hyprland with gruvbox](https://github.com/theshy-arch/linux-rice-gruvbox-project).
 <!-- Footer -->
 <samp>
     <p align="center">

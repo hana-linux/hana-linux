@@ -47,7 +47,7 @@
 
 
 <!-- flex  -->
-## Some things maybe you like :
+## Some things from me maybe you like :
 -  [Hyprland with catppuccin](https://github.com/theshy-arch/catpuccin-hyprland-dotfiles).
 -  [Hyprland with gruvbox](https://github.com/theshy-arch/linux-rice-gruvbox-project).
 <!-- Footer -->

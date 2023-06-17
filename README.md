@@ -8,7 +8,7 @@
        <br>
       <img src="https://readme-typing-svg.herokuapp.com?font=+JetBrains+Mono+Nerd+Font&size=14&pause=1000&color=1D3885&center=true&width=435&lines=Hapiness+comes+from+the+simple+thing" alt="Typing SVG" />
       <p align="center">
-         <b>~ Tran Hong Quan ~</b>
+         ~ Tran Hong Quan ~
          <br>
         ════ ⋆★⋆ ════
         <br>

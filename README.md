@@ -46,8 +46,8 @@
 
 <!-- linux rice  -->
 ### 🌆 Rice :
-<samp>
-   [Hyprland-dotfiles](https://github.com/theshy-arch/hyprland-dotfiles)
-</samp>
+
+   [Hyprland-dotfiles](https://github.com/theshy-arch/hyprland-dotfiles) 🍚
+
 
 

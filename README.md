@@ -47,8 +47,7 @@
 <!-- linux rice  -->
 ### 🌆 Rice :
 <samp>
-   :octocat: <a href="https://github.com/theshy-arch/catpuccin-hyprland-dotfiles">Hyprland with Catppuccin</a></p>
-   🌳 <a href="https://github.com/theshy-arch/linux-rice-gruvbox-project">Hyprland with Gruvbox</a>
+   [Hyprland-dotfiles](https://github.com/theshy-arch/hyprland-dotfiles)
 </samp>
 
 

@@ -20,7 +20,7 @@
 </p>
 
 <!--Github Stats -->
-## :fire: Github Stats
+### :fire: Github Stats
 <table>
    <tr>
      <td width="50%"> 

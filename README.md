@@ -5,10 +5,9 @@
       &gt; Hey There!, I am <b><a target="_blank" href="https://www.linkedin.com/in/theshy-arch/">theshy</a></b>
       <br>
       A student at Ha Noi University of Mining and Geology
-       <br>
+      <br>
       <img src="https://readme-typing-svg.herokuapp.com?font=+JetBrains+Mono+Nerd+Font&size=14&pause=1000&color=1D3885&center=true&width=435&lines=Hapiness+comes+from+the+simple+thing" alt="Typing SVG" />
       <p align="center">
-         <br>
         ════ ⋆★⋆ ════
         <br>
         "Happy Coding👨‍💻!"

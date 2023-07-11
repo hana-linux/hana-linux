@@ -40,7 +40,7 @@
 
 <!--Technical skills  -->
 ### :atom: Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,figma,laravel,php,spring,git,linux,neovim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,figma,laravel,php,vuejs,nuxjs,git,linux,neovim&theme=dark)](https://skillicons.dev)
 
 <!-- linux rice  -->
 ### 🌆 Rice :
